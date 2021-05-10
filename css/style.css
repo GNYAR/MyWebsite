@@ -1,0 +1,38 @@
+/*
+Green
+#D1EDE1 #7BC5AE #028C6A #003E19
+Red
+#FCDFF3 #FE929F
+*/
+
+h3, .link {
+    color: #003E19 !important;
+}
+.info, .skill {
+    background-color: #028C6A;
+}
+.point {
+    color: #7BC5AE !important;
+}
+.point-h, .link:hover {
+    color: #028C6A !important;
+}
+.line {
+    border-color: #7BC5AE !important;
+}
+.line-h {
+    border-color: #028C6A !important;
+}
+.progress {
+    background-color: #D1EDE1 !important;
+}
+.skilltab {
+    background-color: #7BC5AE !important;
+    border: 0px !important;
+    color:#fff !important;
+}
+.timetab {
+    background-color: #028C6A !important;
+    border: 0px !important;
+    color:#fff !important;
+}
